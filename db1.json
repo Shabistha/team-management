@@ -1,0 +1,59 @@
+{
+    "TeamDetails": [
+        {
+            "SNo": 1,
+            "SapID": 38745545,
+            "firstName": "Surampally",
+            "lastName": "Sharon Evangiline",
+            "email": "eiryebf@gmail.com",
+            "phoneNumber": 45746558,
+            "reportingManager": "abc",
+            "workingLocation": "Hyderabad",
+            "role": "GET"
+        },
+        {
+            "SNo": 2,
+            "SapID": 485465795,
+            "firstName": "Doddapaneni",
+            "lastName": "Dedeepya",
+            "email": "v-abc@microsoft.com",
+            "phoneNumber": 49567095,
+            "reportingManager": "xyz",
+            "workingLocation": "Delhi",
+            "role": "GET"
+        },
+        {
+            "SNo": 3,
+            "SapID": 9856589,
+            "firstName": "K",
+            "lastName": "Vyshnavi",
+            "email": "kvysh@gmail.com",
+            "phoneNumber": 4954860,
+            "reportingManager": "abc",
+            "workingLocation": "chennai",
+            "role": "GET"
+        },
+        {
+            "SNo": 4,
+            "SapID": 12345678,
+            "firstName": "sri",
+            "lastName": "poojitha",
+            "email": "pooj@gmail.com",
+            "phoneNumber": 980786,
+            "reportingManager": "xyz",
+            "workingLocation": "pune",
+            "role": "GET"
+        },
+        {
+            "SNo": 5,
+            "SapID": 3958044,
+            "firstName": "Shabista",
+            "lastName": "naaz",
+            "email": "shabista@gmail.com",
+            "phoneNumber": 89545653,
+            "reportingManager": "abc",
+            "workingLocation": "kolkata",
+            "role": "GET"
+        }
+    ]
+}
