@@ -2,11 +2,12 @@
     "User Details": [
         {
             "SNo": 1,
-            "SapID": 52237830,
+            "SAP_ID": 52237830,
             "Name": "Shabistha Naaz",
             "Email": "eiryebf@gmail.com",
-            "phone Number": 45746558,
-            "Reporting Manager": "abc"
+            "Gender": "Female",
+            "phone_Number": 45746558,
+            "Reporting_Manager": "abc"
         }
     ]
 }
